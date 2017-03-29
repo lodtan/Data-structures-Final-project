@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1484129292 source:c:\users\elodie\documents\utc\nf16\tp4\tp4.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"tp4.h"
+
+1483635394 c:\users\elodie\documents\utc\nf16\tp4\tp4.h
+
+1483635083 source:c:\users\elodie\documents\utc\nf16\tp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tp4.h"
+
+1481273098 source:e:\nf16\tp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tp4.h"
+
+1481269350 e:\nf16\tp4\tp4.h
+
+1481273358 source:e:\nf16\tp4\tp4.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"tp4.h"
+
+1482157698 source:k:\nf16\tp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tp4.h"
+
+1482081846 k:\nf16\tp4\tp4.h
+
+1482263274 source:k:\nf16\tp4\tp4.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"tp4.h"
+
+1482157698 source:f:\nf16\tp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tp4.h"
+
+1482081846 f:\nf16\tp4\tp4.h
+
+1482272328 source:f:\nf16\tp4\tp4.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"tp4.h"
+
+1483307816 source:c:\users\elodie\downloads\utc\tp4\tp4.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"tp4.h"
+
+1483305271 c:\users\elodie\downloads\utc\tp4\tp4.h
+
+1482503720 source:c:\users\elodie\downloads\utc\tp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tp4.h"
+
